@@ -1,25 +1,26 @@
 export default defineAppConfig({
   profile: {
-    name: 'Hugo Richard',
-    job: 'Front-end developer and designer',
-    location: 'Nice, France',
-    description: 'French developer based in Nice. Working mainly with Nuxt and Vue.',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    website: 'https://hrcd.fr',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4'
+    name: "Acepmon",
+    job: "Full-stack developer",
+    location: "Ulaanbaatar, Mongolia",
+    description:
+      "Mongolian developer based in Ulaanbaatar. Working mainly with Nuxt, Vue, and Laravel. Proficient in both frontend and backend development.",
+    email: "acepmon@gmail.com",
+    phone: "(+976) 88206116",
+    website: "https://acepmon.com",
+    picture: "https://avatars.githubusercontent.com/u/9900016?v=4",
   },
   seo: {
-    title: 'Hugo Richard | Front-end Developer and Designer',
-    description: 'Hugo Richard, french developer and designer based in Nice.',
-    url: 'https://cv.hrcd.fr',
-    image: 'https://cv.hrcd.fr/og.png',
-    lang: 'en'
+    title: "Acepmon | Full-stack Developer",
+    description: "Acepmon, mongolian developer based in Ulaanbaatar.",
+    url: "https://acepmon.com",
+    image: "https://acepmon.com/og.png",
+    lang: "en",
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-  }
-})
+    github: "https://github.com/acepmon",
+    twitter: "https://twitter.com/acep_mon",
+    linkedin: "",
+    instagram: "https://www.instagram.com/acepworld",
+  },
+});

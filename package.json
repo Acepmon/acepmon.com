@@ -1,16 +1,16 @@
 {
-  "name": "nuxt-cv",
+  "name": "acepmon.com",
   "private": true,
   "type": "module",
-  "description": "Nuxt CV is a clean, printable cv for developers built with Nuxt.",
-  "author": "HugoRCD",
-  "funding": "https://github.com/sponsors/HugoRCD",
+  "description": "My personal CV website built with Nuxt.",
+  "author": "Acepmon",
+  "funding": "https://github.com/sponsors/acepmon",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HugoRCD/nuxt-cv.git"
+    "url": "git+https://github.com/acepmon/acepmon.com.git"
   },
   "bugs": {
-    "url": "https://github.com/HugoRCD/nuxt-cv/issues"
+    "url": "https://github.com/acepmon/acepmon.com/issues"
   },
   "scripts": {
     "build": "nuxt build",
