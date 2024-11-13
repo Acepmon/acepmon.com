@@ -15,6 +15,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxt/scripts",
     "@nuxthq/studio",
+    "nuxt-gtag",
   ],
 
   routeRules: {
@@ -29,5 +30,9 @@ export default defineNuxtConfig({
 
   studio: {
     enabled: true,
+  },
+
+  gtag: {
+    id: "G-KKZ2LVSCMS",
   },
 });
